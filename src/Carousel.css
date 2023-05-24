@@ -15,5 +15,11 @@
 }
 
 .bi {
-  font-size: 35px
+  font-size: 35px;
 }
+
+.hidden {
+  opacity: 0;
+}
+
+
